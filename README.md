@@ -1,7 +1,7 @@
-### Hi there 👋\
-   My name is Aryan Vats..
-   ~2nd year Engineering Student😇
-   ~ I’m currently learning web devolopment ...🤓
-(New to this platform)✌️
-Contact me on my gmail: aryanvats603@gmail.com😊
+### Hi there 👋
+   My name is Aryan Vats..<br />
+   ~2nd year Engineering Student😇<br />
+   ~ I’m currently learning web devolopment ...🤓<br />
+(New to this platform)✌️<br />
+Contact me: aryanvats603@gmail.com😊
 
